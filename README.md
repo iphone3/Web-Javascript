@@ -1,5 +1,6 @@
-# Web-Javascript
+# Web前端开发-玩转Javascript
 GitHub地址: https://github.com/iphone3/Web-Javascript
+
 
 ## 课程内容:
 ### 01-javascript基础 [基础]
